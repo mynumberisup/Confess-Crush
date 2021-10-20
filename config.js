@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Love",
+    introTitle: 'Lê Thị Thanh Thuyên',
+    introDesc: `Happy Vietnamese Women's Day`,
+    btnIntro: 'Dear my sister',
+    title: 'Chúc Tư một ngày 20/10 thật vui vẻ nha',
+    desc: 'Út cảm ơn Tư nhiều vì luôn là chỗ dựa của Út trong mọi việc ',
+    btnYes: 'Yêu Út nhiều nhiều',
+    btnNo: 'Thôi dở hơi quá',
+    question: 'Hong biết chừng nào Tư về ha',
+    btnReply: '<3 love you',
+    reply: 'Út hong viết thư được nên đành tạo cái này',
+    mess: 'Chúc tư có một ngày thiệt là hạnh phúc',
+    messDesc: 'Út yêu Tư nhiều lắm lắm',
+    btnAccept: '<3',
+    messLink: 'https://www.youtube.com/watch?v=cPkE0IbDVs4' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
